@@ -7,7 +7,7 @@
 
 [instagram]: https://www.instagram.com/codebusters_glau/
 
-[<img align="center" alt="LinkedIN: GLAU CodeChef Chapter - CodeBusters" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/938777454640791592/174857.png" />][linkedin]
+[<img align="inline" alt="LinkedIN: GLAU CodeChef Chapter - CodeBusters" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/938777454640791592/174857.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/company/codebusters-glau/
   
